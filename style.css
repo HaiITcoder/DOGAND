@@ -9,7 +9,7 @@ body {
 }
 span{
     position: absolute;
-    background: url("heart2.png");
+    background: url("heart.png");
     pointer-events: none;
     width: 100px;
     height: 100px;
